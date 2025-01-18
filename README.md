@@ -102,6 +102,6 @@ This code is for educational purposes only. It demonstrates basic concepts of se
 
 ## Contact
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Your Name - [@gogo gaga](https://github.com/HamzaBika)
 
-Project Link: [https://github.com/yourusername/secure-socket-communication](https://github.com/yourusername/secure-socket-communication)
+Reference Link: [Demystifying Diffie-Hellman key exchange and explaining how it works](https://www.comparitech.com/blog/information-security/diffie-hellman-key-exchange/)
