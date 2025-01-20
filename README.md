@@ -19,7 +19,7 @@ A simple implementation of socket-based communication between a server and clien
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/secure-socket-communication.git
+git clone https://github.com/HamzaBika/Diffie-Hellman/secure-socket-communication
 cd secure-socket-communication
 ```
 
