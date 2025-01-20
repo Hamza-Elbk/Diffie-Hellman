@@ -84,24 +84,14 @@ Example output:
 [*] Shared key calculated: 3
 ```
 
-## Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer
 
 This code is for educational purposes only. It demonstrates basic concepts of secure communication but should not be used in production environments without significant security improvements.
 
-## Contact
 
-Your Name - [@gogo gaga](https://github.com/HamzaBika)
+
+ [@gogo gaga](https://github.com/HamzaBika)
 
 Reference Link: [Demystifying Diffie-Hellman key exchange and explaining how it works](https://www.comparitech.com/blog/information-security/diffie-hellman-key-exchange/)
